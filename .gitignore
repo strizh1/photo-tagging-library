@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Private signing settings used by install.sh
+signing.local.env
+
+# Private app icon (made with SF Symbols, which may not be published), used by install.sh
+photos analyze/Assets.xcassets/PrivateAppIcon.appiconset/
