@@ -3,6 +3,8 @@
 A Mac app that tags your photo folders automatically: what's in each shot, how it was shot,
 and the camera behind it. Everything runs on your Mac. No photos or tags leave your computer.
 
+IMPORTANT:
+There is no app icon, create and use your own icon, a recommendation is to find or create liscense-free PNG images and use them in icon composer.
 ## Features
 
 - **Automatic tags in three groups**
